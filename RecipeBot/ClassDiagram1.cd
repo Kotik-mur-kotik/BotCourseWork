@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RecipeBot.CallBacks.CallBack" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>CallBacks\CallBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.CallBacks.HealthCallBack" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CallBacks\HealthCallBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.CallBacks.RecipeCallBack" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAQAAAAAAAQAAAAAQAAAAAAAAAAAAgA=</HashCode>
+      <FileName>CallBacks\RecipeCallBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Commands.Command" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Commands\Command.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Commands.CountCommand" Collapsed="true">
+    <Position X="18.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\CountCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Commands.FoodCommand" Collapsed="true">
+    <Position X="12" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\FoodCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Commands.HealthCommand" Collapsed="true">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Commands\HealthCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Commands.StartCommand" Collapsed="true">
+    <Position X="16.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Commands\StartCommand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Fillings.CountOfRecipes" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Fillings\CountOfRecipes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Fillings.NameOfFood" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fillings\NameOfFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Filling" Collapsed="true">
+    <Position X="8.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAQAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Fillings\Filling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Bot" Collapsed="true">
+    <Position X="23.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACEAAgAAAAAAAEBAAAAAAAwAAAAAAAAAAAQABAAEAAA=</HashCode>
+      <FileName>Bot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.DataBase" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Program" Collapsed="true">
+    <Position X="21" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAgCMAAAAAAAAQAAAAAQAAAAAAAAAABAAEAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Recipes" Collapsed="true">
+    <Position X="27" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Recipe" Collapsed="true">
+    <Position X="25.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAIAAAAAgAAAAAAAAAAAAAQCAAAAAIkACAAAAAAAAAA=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Users.User" Collapsed="true">
+    <Position X="23.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCACAAACAAAAgAAAABAQAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Users\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RecipeBot.Users.UserContext" Collapsed="true">
+    <Position X="25.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Users\UserContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
